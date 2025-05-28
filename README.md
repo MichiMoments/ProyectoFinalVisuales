@@ -4,4 +4,4 @@ Todo el codigo se encuentra en la carpeta titulada: "Tutorial11_ResourceUpdates"
 
 El documento esta en bn pero tambien se encuentra en este repositorio.
 
-Link de la presentacion final: 
+Link de la presentacion final: https://www.canva.com/design/DAGotJv0ewo/DaWpm1vyAoKkemYqy4pjgQ/edit
